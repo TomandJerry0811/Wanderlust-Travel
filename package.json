@@ -57,9 +57,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-
-    "engines": {
+  "engines": {
     "node": "20.x"
   }
-
 }
